@@ -1,0 +1,3 @@
+source /usr/local/share/pdk/sky130B/libs.tech/xschem/xschemrc
+#### include user defined libraries
+append XSCHEM_LIBRARY_PATH :/Users/dylanrosser/Documents/repos/sky130n/sandbox
